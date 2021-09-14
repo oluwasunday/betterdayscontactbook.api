@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O2z141UoGx96fS7QniU4GnU6DjWQBTV1RT0zN+nmA/tzKxaeVf6mkGgZ5qJPM3fZv4u75JHQiTktuU2UPx9Wsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Documents\\Decagon_SQ008\\Week09\\BetterDaysContactBook.API\\BetterDaysContactBook.Common\\BetterDaysContactBook.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\jetbrains.annotations\\2021.1.0\\jetbrains.annotations.2021.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\x.pagedlist\\8.1.0\\x.pagedlist.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

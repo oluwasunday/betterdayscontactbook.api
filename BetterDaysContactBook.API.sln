@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterDaysContactBook.API", "BetterDaysContactBook.API\BetterDaysContactBook.API.csproj", "{5B834B29-CCF9-42A2-8D28-3D699753EC83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterDaysContactBook.Database", "BetterDaysContactBook.Database\BetterDaysContactBook.Database.csproj", "{98F55DA3-57AF-460A-BBFD-2AE9E10D9664}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterDaysContactBook.Core", "BetterDaysContactBook.Core\BetterDaysContactBook.Core.csproj", "{369FE3E8-AEA1-4A38-A52A-BA8856259CD4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterDaysContactBook.Models", "BetterDaysContactBook.Models\BetterDaysContactBook.Models.csproj", "{AFA2A064-A7A6-4890-87F1-79B884DB284E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterDaysContactBook.Common", "BetterDaysContactBook.Common\BetterDaysContactBook.Common.csproj", "{E02304C8-B825-4F22-BBA8-0270989DE0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B834B29-CCF9-42A2-8D28-3D699753EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B834B29-CCF9-42A2-8D28-3D699753EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B834B29-CCF9-42A2-8D28-3D699753EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B834B29-CCF9-42A2-8D28-3D699753EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F55DA3-57AF-460A-BBFD-2AE9E10D9664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F55DA3-57AF-460A-BBFD-2AE9E10D9664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F55DA3-57AF-460A-BBFD-2AE9E10D9664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F55DA3-57AF-460A-BBFD-2AE9E10D9664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369FE3E8-AEA1-4A38-A52A-BA8856259CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369FE3E8-AEA1-4A38-A52A-BA8856259CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369FE3E8-AEA1-4A38-A52A-BA8856259CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369FE3E8-AEA1-4A38-A52A-BA8856259CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA2A064-A7A6-4890-87F1-79B884DB284E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA2A064-A7A6-4890-87F1-79B884DB284E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA2A064-A7A6-4890-87F1-79B884DB284E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA2A064-A7A6-4890-87F1-79B884DB284E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E02304C8-B825-4F22-BBA8-0270989DE0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E02304C8-B825-4F22-BBA8-0270989DE0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E02304C8-B825-4F22-BBA8-0270989DE0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E02304C8-B825-4F22-BBA8-0270989DE0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA03451-FE90-45F3-9C31-392DC98945D1}
+	EndGlobalSection
+EndGlobal
